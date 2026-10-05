@@ -1,0 +1,4 @@
+Nombre: Carlos
+Apellidos:Cerda
+Edad:18
+Carrera:Sistemas
